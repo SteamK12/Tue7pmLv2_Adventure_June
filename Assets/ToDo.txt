@@ -1,2 +1,8 @@
 Pokemon Abilities
 Leveling up
+
+BUGS:
+Can't look up and down
+
+MAYBE:
+Crosshair
